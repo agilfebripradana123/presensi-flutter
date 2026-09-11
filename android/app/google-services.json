@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547533760776",
+    "project_id": "absensi-pegawai-x7",
+    "storage_bucket": "absensi-pegawai-x7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547533760776:android:b6ce4e8ea491e3aac5e4bd",
+        "android_client_info": {
+          "package_name": "com.example.absensi_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXsrsH-EkoRuVOUpBTS--vK8u_YWBt-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547533760776:android:8c8695297bc6c99dc5e4bd",
+        "android_client_info": {
+          "package_name": "com.example.xseven_presensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXsrsH-EkoRuVOUpBTS--vK8u_YWBt-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
